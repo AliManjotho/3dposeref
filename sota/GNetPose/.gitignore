@@ -1,0 +1,8 @@
+*.mat
+*.caffemodel
+*.jpg
+*.png
+*.pyc
+*.pdf
+*.tex
+*.fig
