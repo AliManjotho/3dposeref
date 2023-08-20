@@ -24,3 +24,6 @@ Challenges in 3D human pose estimation include occlusions (body parts being hidd
 
 ## Testing
 
+## References
+MoveNet
+
