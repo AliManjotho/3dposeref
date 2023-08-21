@@ -2,6 +2,9 @@
 
 Challenges in 3D human pose estimation include occlusions (body parts being hidden), self-occlusions (body parts blocking each other), varying camera viewpoints, and the ambiguity inherent in 2D-to-3D mapping. Researchers and engineers have developed various techniques to address these challenges, such as data augmentation, multi-modal fusion, and using additional cues like clothing information.We propose a novel monocular 3D human pose refining method combining accurate bone length constraints and artificial localization errors.
 
+## Our model
+![Model](resources/images/model.png)
+
 ## Demo 1: Controlling fullbody digital avatar in Unity3D
 ![Pose1](resources/images/pose1.gif)
 
