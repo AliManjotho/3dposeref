@@ -22,6 +22,11 @@ Challenges in 3D human pose estimation include occlusions (body parts being hidd
 ![Snapshot from unity VR application](resources/images/1.png)
 ![Snapshot from unity VR application](resources/images/2.png)
 ![Snapshot from unity VR application](resources/images/3.png)
+## Authors
+Ali Asghar Manjotho
+Tekie Tsegay Tewolde
+Zhendong Niu
+
 
 ## Training
 
