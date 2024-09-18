@@ -32,10 +32,18 @@ Anthropometric Pose Refiner (APR): Uses anthropometric bone-length data to furth
 ![Snapshot from unity VR application](resources/images/1.png)
 ![Snapshot from unity VR application](resources/images/2.png)
 ![Snapshot from unity VR application](resources/images/3.png)
+
+## Pose-Anthro self attention
+![Model](resources/images/attention.png)
+
+## Anthropometric measures
+![Model](resources/images/attention.png)
+
 ## Authors
+Anam Memon
+Qasim Arain
 Ali Asghar Manjotho
-Tekie Tsegay Tewolde
-Zhendong Niu
+
 
 
 ## Training
@@ -43,5 +51,5 @@ Zhendong Niu
 ## Testing
 
 ## References
-MoveNet
+
 
