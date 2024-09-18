@@ -37,7 +37,7 @@ Anthropometric Pose Refiner (APR): Uses anthropometric bone-length data to furth
 ![Model](resources/images/attention.png)
 
 ## Anthropometric measures
-![Model](resources/images/attention.png)
+![Model](resources/images/anthropometric_measures.png)
 
 ## Authors
 Anam Memon
