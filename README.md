@@ -40,16 +40,9 @@ Anthropometric Pose Refiner (APR): Uses anthropometric bone-length data to furth
 ![Model](resources/images/anthro_measures.png)
 
 ## Authors
-Anam Memon
-Qasim Arain
-Ali Asghar Manjotho
-
-
-
-## Training
-
-## Testing
-
-## References
-
-
+Anam Memon,
+Qasim Arain,
+Ali Asghar Manjotho,
+Meshari Huwaytim Alanazi,
+Mueen Uddin,
+Mohammad Shorofuzzaman
